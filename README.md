@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis,frontend development and web design.
 - 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on frontend dev and also data analysis.
-- 📫 You can reach me on IG @2hottega or TW: @_tegz
+- 📫 You can reach me on TW: @_tegz
 
 <!---
 2hottega/2hottega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
