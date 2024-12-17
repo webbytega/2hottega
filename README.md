@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2hottega
-- 👀 I’m interested in data analysis,frontend development and web design.
+- 👀 I’m interested in cybersecurity,frontend development and web design.
 - 🌱 I’m currently learning frontend development.
-- 💞️ I’m looking to collaborate on frontend dev and also data analysis.
+- 💞️ I’m looking to collaborate on frontend dev and also cybersecurity roles.
 - 📫 You can reach me on TW: @_Tegz
 
 <!---
